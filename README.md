@@ -1,4 +1,6 @@
-<img width="700" alt="Tarantool_scanner" src="https://github.com/user-attachments/assets/be42abdc-9889-40e6-9e18-088cbefac448" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be42abdc-9889-40e6-9e18-088cbefac448" alt="Tarantool_scanner" width="800">
+</p>
 # Tarantool_scanner
 
 `Tarantool_scanner` is a lightweight security scanner for Tarantool environments. The project combines:
