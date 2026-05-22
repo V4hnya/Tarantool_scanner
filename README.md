@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/be42abdc-9889-40e6-9e18-088cbefac448" alt="Tarantool_scanner" width="800">
 </p>
-# Tarantool_scanner
+<h1 align="center">Tarantool_scanner</h1>
 
 `Tarantool_scanner` is a lightweight security scanner for Tarantool environments. The project combines:
 
@@ -163,7 +163,7 @@ Options:
 - `--iproto-user` — Tarantool username for IPROTO brute-force
 - `--iproto-pass-file` — password file for IPROTO brute-force
 
-Scanner using default credentials
+Default credentials used by the scanner
 
 ## Example output
 
